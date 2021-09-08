@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-size: 62.5%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    line-height: 1.5;
+    font-size: 1.6rem;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: 100%;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(0.5, 0.5);
+    }
+
+    25% {
+        transform: scale(1.1, 1.1);
+    }
+
+    50% {
+        transform: scale(0.8, 0.8);
+    }
+
+    75% {
+        transform: scale(1.05, 1.05);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+}

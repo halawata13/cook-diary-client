@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>back</title>
+    <g id="back" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M806,499.988496 L194.296709,499.988496" id="Line" stroke="#FFFFFF" stroke-width="60"></path>
+        <path d="M194,498.488496 L378,316.488496" id="Path" stroke="#FFFFFF" stroke-width="60"></path>
+        <path d="M194,500.488496 L378,684.488496" id="Path-2" stroke="#FFFFFF" stroke-width="60"></path>
+    </g>
+</svg>

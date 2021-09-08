@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trashbox</title>
+    <g id="trashbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <path d="M671.436529,820.232 L328.563871,820.232 L283.412531,306.176 L716.587869,306.176 L671.436529,820.232 Z" id="Stroke-1" stroke="#F06060" stroke-width="40"></path>
+        <path d="M280,247.1671 L720,247.1671" id="Stroke-3" stroke="#F06060" stroke-width="40" stroke-linecap="round"></path>
+        <path d="M392.1606,243.421 C392.1606,189.065 440.4416,145 499.9996,145 C559.5576,145 607.8386,189.065 607.8386,243.421" id="Stroke-5" stroke="#F06060" stroke-width="40" stroke-linecap="round"></path>
+        <path d="M590.3652,389.2691 L574.1642,737.1381" id="Stroke-7" stroke="#F06060" stroke-width="40" stroke-linecap="round"></path>
+        <path d="M409.6348,389.2691 L425.8358,737.1381" id="Stroke-9" stroke="#F06060" stroke-width="40" stroke-linecap="round"></path>
+    </g>
+</svg>

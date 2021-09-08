@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>loading</title>
+    <g id="loading" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M151,500.5 C151,693.52352 307.47648,850 500.5,850 C668.430116,850 808.697891,731.563441 842.329919,573.663731 C847.355474,550.069146 850,525.593404 850,500.5 C850,444.206765 836.691135,391.021983 813.048247,343.920493 C793.629821,305.235002 767.240375,270.653117 735.528085,241.823016 C673.457693,185.393924 590.995412,151 500.5,151 C399.344837,151 308.226765,193.973894 244.406518,262.660949" id="Path" stroke="#FFFFFF" stroke-width="80" stroke-linecap="round" transform="translate(500.500000, 500.500000) rotate(-210.000000) translate(-500.500000, -500.500000) "></path>
+        <polygon id="Triangle" stroke="#FFFFFF" stroke-width="40" fill="#FFFFFF" stroke-linejoin="round" transform="translate(798.500000, 326.500000) rotate(-219.000000) translate(-798.500000, -326.500000) " points="798.5 221 944 432 653 432"></polygon>
+    </g>
+</svg>

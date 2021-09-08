@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>edit</title>
+    <g id="edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Recipe" transform="translate(178.616650, 161.000000)" stroke="#A77B50" stroke-linecap="round" stroke-width="40">
+            <path d="M20,30.3865546 L380,30.3865546 C435.228475,30.3865546 480,75.1580796 480,130.386555 L480,627.613445 C480,638.65914 471.045695,647.613445 460,647.613445 L20,647.613445 C8.954305,647.613445 4.90542118e-15,638.65914 0,627.613445 L0,50.3865546 C2.20000618e-15,39.3408596 8.954305,30.3865546 20,30.3865546 Z" id="Rectangle"></path>
+            <path d="M89.9844427,174.877945 L389.397249,174.877945" id="Stroke-3"></path>
+            <path d="M89.9844427,287.941472 L389.397249,287.941472" id="Stroke-5"></path>
+            <path d="M89.9844427,401.005474 L389.397249,401.005474" id="Stroke-7"></path>
+            <path d="M89.9844427,514.068526 L389.397249,514.068526" id="Stroke-9"></path>
+        </g>
+        <path d="M865.900859,723.352986 L768.969818,820.284284 L476.576328,527.891032 L454.687919,409.071568 L573.508345,430.958681 L865.900859,723.352986 Z" id="Stroke-1" stroke="#A77B50" stroke-width="40" fill="#F7F3E8"></path>
+        <path d="M487.423779,526.192871 L579.61665,434" id="Stroke-3" stroke="#A77B50" stroke-width="40" stroke-linecap="round"></path>
+        <path d="M716.61665,766 L806.61665,676" id="Stroke-4" stroke="#A77B50" stroke-width="40" stroke-linecap="round"></path>
+    </g>
+</svg>

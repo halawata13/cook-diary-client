@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>document</title>
+    <g id="document" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Recipe" transform="translate(247.000000, 143.000000)" stroke="#A77B50" stroke-width="40">
+            <path d="M20,32 L406,32 C461.228475,32 506,76.771525 506,132 L506,662 C506,673.045695 497.045695,682 486,682 L20,682 C8.954305,682 1.3527075e-15,673.045695 0,662 L0,52 C-1.3527075e-15,40.954305 8.954305,32 20,32 Z" id="Rectangle"></path>
+            <path d="M94.8586,184.1635 L410.4896,184.1635" id="Stroke-3"></path>
+            <path d="M94.8586,303.2304 L410.4896,303.2304" id="Stroke-5"></path>
+            <path d="M94.8586,422.2978 L410.4896,422.2978" id="Stroke-7"></path>
+            <path d="M94.8586,541.3642 L410.4896,541.3642" id="Stroke-9"></path>
+        </g>
+    </g>
+</svg>
